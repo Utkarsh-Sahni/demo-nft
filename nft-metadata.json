@@ -1,0 +1,9 @@
+{
+    "attributes": {
+        "color": "golden",
+        "value": "ABC"
+    },
+    "description": "this is my first NFT",
+    "image": "https://gateway.pinata.cloud/ipfs/QmPLi3gSjGD4rbeBcfPSbPJbHcjjrHm8WMcZycwSRa6Mph",
+    "name": "My NFT"
+}
